@@ -1,3 +1,14 @@
+// Early commit of a Sev file loader
+// Lots of things to fix and improve
+// but tested and working well
+//
+// Required this to port a Spectrum
+// game to Windows - hopefully it will help
+// somebody at some point
+//
+// Please use and modified freely
+//
+
 using System;
 using System.Collections.Generic;
 using System.IO;
